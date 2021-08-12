@@ -1,0 +1,23 @@
+{
+  "name": "location-based-ar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baobuibk96/location-based-ar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baobuibk96/location-based-ar/issues"
+  },
+  "homepage": "https://github.com/baobuibk96/location-based-ar#readme",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
